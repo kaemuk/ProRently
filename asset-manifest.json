@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProRently/static/css/main.b56a22a8.css",
+    "main.js": "/ProRently/static/js/main.d05bfa1c.js",
+    "static/media/Prorentlogin.jpg": "/ProRently/static/media/Prorentlogin.02308479224bbc47120f.jpg",
+    "static/media/Prorentregister.jpg": "/ProRently/static/media/Prorentregister.a6ac448a78bd1cd92175.jpg",
+    "static/media/Prorentslide.jpg": "/ProRently/static/media/Prorentslide.de5c09b5a91f2014495a.jpg",
+    "index.html": "/ProRently/index.html",
+    "main.b56a22a8.css.map": "/ProRently/static/css/main.b56a22a8.css.map",
+    "main.d05bfa1c.js.map": "/ProRently/static/js/main.d05bfa1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56a22a8.css",
+    "static/js/main.d05bfa1c.js"
+  ]
+}
